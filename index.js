@@ -1,4 +1,4 @@
-const lookupOpcode = require('ethereumjs-vm/lib/opcodes.js')
+const lookupOpcode = require('vaporyjs-vm/lib/opcodes.js')
 
 
 

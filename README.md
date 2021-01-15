@@ -1,4 +1,4 @@
-### eth-bin-to-ops
+### vap-bin-to-ops
 
 Simple tool for parsing EVM bytecode into opcodes.
 The primary difference from the raw code is that inline PUSH data is attached to the opcode metadata.

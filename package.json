@@ -1,5 +1,6 @@
 {
-  "name": "eth-bin-to-ops",
+  "name": "vap-bin-to-ops",
+  "namespace": "vaporyjs",
   "version": "1.0.1",
   "main": "index.js",
   "scripts": {
@@ -8,17 +9,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ethereumjs-vm": "^2.0.0",
+    "vaporyjs-vm": "^2.3.3",
     "tape": "^4.6.2"
   },
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ethereumjs/bin-to-ops.git"
+    "url": "git+https://github.com/vaporyjs/bin-to-ops.git"
   },
   "bugs": {
-    "url": "https://github.com/ethereumjs/bin-to-ops/issues"
+    "url": "https://github.com/vaporyjs/bin-to-ops/issues"
   },
-  "homepage": "https://github.com/ethereumjs/bin-to-ops#readme",
+  "homepage": "https://github.com/vaporyjs/bin-to-ops#readme",
   "description": ""
 }
